@@ -21,11 +21,11 @@
   ```
   npm i
   ```
-  
-  ## Screenshots
-  ![Last Workout Data](https://user-images.githubusercontent.com/70115734/111011672-62ec9f80-8357-11eb-8cfe-ff7c5afa6b95.png)
 
-  ![Dashboard](https://user-images.githubusercontent.com/70115734/111011713-80216e00-8357-11eb-98e7-5b503c3f9a5e.png)
+  ## Screenshots
+  ![Last Workout Data](https://user-images.githubusercontent.com/70115734/111011821-e60df580-8357-11eb-983d-41e0c88a68ae.png)
+
+  ![Dashboard](https://user-images.githubusercontent.com/70115734/111011815-e27a6e80-8357-11eb-8eed-56de370aa4d6.png)
 
   ## Usage
   This application should be ran using node or nodemon server.js
